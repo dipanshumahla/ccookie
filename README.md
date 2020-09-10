@@ -59,6 +59,7 @@ var config = {
             console.log('custom default function');
         }
 }
+var ccookie = new ccookie(config);
 ```
 **Note:** Every property is optional.
 
