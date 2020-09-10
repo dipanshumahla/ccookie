@@ -1,0 +1,26 @@
+{
+  "name": "ccookie",
+  "title": "CCookie",
+  "description": "Custom cookie consent library",
+  "version": "1.0.0",
+  "main": "src/ccookie.js",
+  "author": {
+    "name": "Dipanshu Mahla",
+    "url": "https://github.com/dipanshumahla"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dipanshumahla/ccookie.git"
+  },
+  "keywords": [
+    "ccookie",
+    "javascript",
+    "custom cookie consent",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/dipanshumahla/ccookie/issues"
+  },
+  "license": "MIT",
+  "dependencies": {}
+  }
